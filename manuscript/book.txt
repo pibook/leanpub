@@ -1,11 +1,5 @@
 mi-pre.md
 mi-intro.md
-mi-ch01.md
-mi-ch02.md
-mi-ch03.md
-mi-ch04.md
-mi-ch05.md
-mi-ch06.md
 mi-ch07.md
 mi-ch08.md
 mi-epi.md
