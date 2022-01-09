@@ -8,7 +8,7 @@ function Image(img)
         f:close()
         --print(fn)
         local src=pandoc.utils.stringify(doc.meta.image_url) or "src has not been set"
-        src = string.sub(src,9)
+        src = string.sub(src,2)
         local caption=pandoc.utils.stringify(doc.meta.caption) or "caption has not been set"
         return pandoc.Image(caption,src)
       end
