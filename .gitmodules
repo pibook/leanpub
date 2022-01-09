@@ -4,3 +4,14 @@
 [submodule "manuscript/resources"]
 	path = manuscript/resources
 	url = https://github.com/pibook/images
+[submodule "figures"]
+	path = figures
+	url = https://github.com/pibook/_gallery
+[submodule "epigraphs"]
+	path = epigraphs
+	url = https://github.com/pibook/_quotes.git
+	branch = master
+[submodule "extras"]
+	path = extras
+	url = https://github.com/pibook/extras.git
+	branch = master
